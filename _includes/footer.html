@@ -5,9 +5,11 @@
       <div class="space-y-8 md:col-span-1">
         <div class="px-4 sm:px-16 md:grid md:grid-cols-2 md:gap-8">
           <div>
+            {% if site.footer-links %}
             <h4 class="text-sm leading-5 font-semibold text-gray-400 tracking-wider uppercase">
               Menu
             </h4>
+            {% endif %}
             <ul class="mt-4 space-y-4">
 
               {% for link in site.footer-links %}
@@ -24,7 +26,7 @@
         
       </div>
       <div class="mt-12 px-4 sm:px-16 md:text-right">
-        <img src="img/{{ site.logo }}" class="h-16 md:float-right">
+        #adayhepimiz
       </div>
     </div>
     <div class="mt-12 border-t border-gray-200 pt-8">

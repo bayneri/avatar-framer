@@ -13,31 +13,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Avatar Framer
+title: Aday Hepimiz
 description: >- # this means to ignore newlines"
-  A simple tool to create framed profile pictures for social media in support of a cause.
-  Dynamically generate a static site based off of the number of frame images provided.
+  "Aday ben değilim, #adayhepimiz"
 
 # Copy
 # Fill in your copy for the title and steps here
 # 
-title-text: "Show you’re on #TeamBartlet by helping get out the vote on social media!"
-step-1: "Upload your picture or another square image below."
-step-2: "Use the photo tools to scale, rotate, and move your image over the preview."
-step-3: "Select your frame."
-step-4: "Download your new profile image!"
-step-5: "Post on social media using the hashtag #TeamBartlet."
-footer-text: "&copy; 2020 Campaign Works, Inc. All rights reserved."
-
-# Header Nav Link
-#
-nav-link: "http://google.com"
-nav-link-text: "Donate"
+title-text: "Aday Hepimiz!"
+step-1: "Profil fotoğrafını yükle."
+step-2: "Boyutunu ve yönünü ayarla."
+step-3: "Çerçeveni seç."
+step-4: "Yeni profil fotoğrafını indir!"
+step-5: "Sosyal medyada #adayhepimiz etiketiyle paylaşmayı unutma!"
+footer-text: "Aday Hepimiz"
 
 # Buttons and upload form
 # 
-upload-text: "Drop files here or click to upload."
-download-button-text: "Download profile picture"
+upload-text: "Fotoğraf Yükle"
+download-button-text: "İndir"
 
 # Logo & Favicon
 # 
@@ -46,28 +40,28 @@ favicon: "favicon.ico"
 
 # Footer links
 # 
-footer-links:
-  - text: "Awesome page 1"
-    link: "http://google.com"
+# footer-links:
+#   - text: "Awesome page 1"
+#     link: "http://google.com"
 
-  - text: "Other page 2"
-    link: "http://google.com"
+#   - text: "Other page 2"
+#     link: "http://google.com"
 
-  - text: "Things!"
-    link: "http://google.com"
+#   - text: "Things!"
+#     link: "http://google.com"
 
 # Open Graph and Twitter Cards
 #
-og-title: Create your own avatar generating website
-og-description: Create your own avatar generating website
-og-url: https://andrewquinn.ca/avatar-framer
+og-title: Aday Hepimiz
+og-description: Başlıyoruz 
+og-url: https://adayhepimiz.com
 og-image: "og-image.png"
 og-image-width: 1280
 og-image-height: 640
 twitter-card: summary_large_image
-twitter-description: Create your own avatar generating website
+twitter-description: "Aday ben değilim, #adayhepimiz"
 twitter-image: "og-image.png"
-twitter-handle: "@AndrewQuinn2"
+twitter-handle: "@kilicdarogluk"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
