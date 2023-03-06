@@ -33638,6 +33638,9 @@ document.addEventListener("DOMContentLoaded", function () {
   });
   document.getElementById("frame-3").addEventListener("click", function () {
     changeFrame(canvas, 'img/frames/frame-3.png');
+  }); 
+  document.getElementById("frame-4").addEventListener("click", function () {
+    changeFrame(canvas, 'img/frames/frame-4.png');
   }); // handle download
   // create a link and simulate a click to download the file
 
